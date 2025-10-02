@@ -1,6 +1,5 @@
 ---
 title: "Teaching Fellow of BMI701: Foundations of Biomedical Informatics I"
-collection: Teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Harvard Medical School, Department of Biomedical Informatics"
