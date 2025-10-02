@@ -1,6 +1,5 @@
 ---
 title: "Teaching assistant: CSE1106: Introduction to Computer Science and Engineering"
-collection: teaching
 type: "Lab session"
 permalink: /teaching/2015-spring-teaching-1
 date: 2025-09-01
