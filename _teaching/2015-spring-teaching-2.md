@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching assistant: CSE1106: Introduction to Computer Science and Engineering"
 collection: teaching
-type: "Workshop"
+type: "Lab session"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+date: 2025-09-01
+location: "Arlington, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Running Lab Session
+======
+Each TA leads four lab sessions per week in addition to attending a TA training. In total, I mentored about 60 students in the class.
+
+Grading
 ======
 
-Heading 2
-======
-
-Heading 3
-======
