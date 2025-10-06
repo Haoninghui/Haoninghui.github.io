@@ -11,10 +11,8 @@
 main:
   - title: "Publications"
     url: /publications/
-
-   - title: "Talks/Tutorials"
+  - title: "Talks/Tutorials"
      url: /talks/
-
   - title: "Teaching"
     url: /teaching/
 
