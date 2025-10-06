@@ -1,19 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ninghui Hao"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Ninghui Hao
-======
-
-
 Research Interests
 ======
-AI for Science (AI4Science), with interests in bioinformatics, explainable machine learning, multi-modal learning, and interpretable models for clinical decision-making. She previously conducted research at Harvard Medical School, where she applied artificial intelligence to biomedical problems.
+My research focuses on AI for Science (AI4Science), with interests in bioinformatics, explainable machine learning, multi-modal learning, and interpretable models for clinical decision-making. Some directions are listed as follows:
 
 - Bioinformatics  
 - Explainable Machine Learning  
@@ -23,6 +19,6 @@ AI for Science (AI4Science), with interests in bioinformatics, explainable machi
 
 Education
 ======
-M.S., Biomedical Informatics, Harvard Medical School, 2025
-B.S., Bioinformatics, Zhejiang University, 2023
-B.S., Bioinformatics, University of Edinburgh, 2023
+M.S., Biomedical Informatics, Harvard Medical School, 2025 <br>
+B.S., Bioinformatics, Zhejiang University, 2023 <br>
+B.S., Bioinformatics, University of Edinburgh, 2023 <br>
